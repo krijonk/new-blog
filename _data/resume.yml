@@ -1,0 +1,62 @@
+name: "Christopher J. Kure"
+contact:
+  phone: "760-505-8245"
+  email: "cjkure@gmail.com"
+  address: "801 M Street Unit 1223, Rio Linda, CA 95673"
+
+profile: "Detail oriented, fast learning, responsible, and efficient."
+
+experience:
+  - title: "Construction Labor / Skilled Labor"
+    company: "Cooper Oates Air Conditioning"
+    location: "Sacramento, CA"
+    start: "2019-09"
+    end: "2020-04"
+    details:
+      - "Fabrication shop and multiple job-site work for new construction. Assisted with copper and steel welding and basic fabrication (cutting, grinding, MIG welding)."
+      - "Operated warehouse equipment (pallet jacks, forklifts) and used pipe vices, stands, levels, clamps, and vice-grips to position materials."
+      - "HVAC assembly: modular boxes for split heating/cooling systems and copper welding (brazing). Performed nitrogen 'floating' to limit oxidation during brazing."
+
+  - title: "IT Technician / Help Desk / Field Service"
+    company: "Consolvant / Santech Systems"
+    location: "San Diego, CA"
+    start: "2017-04"
+    end: "2018-07"
+    details:
+      - "Provided desktop and server support: imaging, hardware upgrades, RAID, drive replacement, and system deployments."
+      - "Exchange and Active Directory administration; onboard/offboard user lifecycle and VPN administration for remote users."
+      - "Supported Office suites (2000 through 2016) and Office365; logged and triaged tickets via tracking system."
+
+  - title: "Technical Consultant / IT Managed Service Provider"
+    company: "Self-employed"
+    location: "San Diego & Orange County, CA"
+    start: "2007-02"
+    end: "2017-02"
+    details:
+      - "Delivered end-user and small-business IT services: desktops, printers, scanners, POS systems, backups, and mobile device support (iOS & Android)."
+      - "Experience across macOS (10.4–10.13), Windows (XP–11), and multiple Linux distributions. Managed DNS, Windows Server (2000–2012), and Exchange (2003/2010)."
+      - "Built and configured desktops and servers; focused on business continuity and scalable configurations."
+
+education:
+  - institution: "University of California, Santa Barbara"
+    degree: "B.A., Geographic Science"
+    year: 2006
+
+skills:
+  - "Construction / Handyman / Industrial Plumbing / Fabrication / Mechanical Repair"
+  - "Active Directory & Domain Controller Management / Group Policy"
+  - "Windows Desktop OS Deployment (Imaging, Licensing, Asset Mgmt)"
+  - "Windows Server Administration"
+  - "Help Desk & Ticket Management"
+  - "WAN Management, VPN, Routing"
+  - "Ethernet / Fiber / WiFi (AP & Mesh), Guest WiFi"
+  - "DNS / DHCP Server Management, VLANs"
+  - "Microsoft Exchange / Exchange365"
+  - "System Administration across macOS, Windows, Linux, ChromeOS"
+  - "Mobile device management (iOS/Android), iOS development provisioning"
+  - "Remote access: RDP, VNC, TeamViewer, LogMeIn, Citrix"
+  - "Virtualization: VirtualBox, VMware, Parallels, VDI"
+  - "Backup solutions, disaster recovery, imaging"
+  - "Firewall configuration, security management, event monitoring"
+  - "FTP/SFTP/HTTP server management"
+  - "Specialty AV & Digital Menu systems"

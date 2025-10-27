@@ -1,0 +1,52 @@
+{%- assign r = site.data.resume -%}
+
+<header class="post-resume-header">
+  <h1>{{ r.name }}</h1>
+  <ul class="contact">
+    {% if r.contact.phone %}<li>Phone: {{ r.contact.phone }}</li>{% endif %}
+    {% if r.contact.email %}<li>Email: <a href="mailto:{{ r.contact.email }}">{{ r.contact.email }}</a></li>{% endif %}
+    {% if r.contact.address %}<li>Address: {{ r.contact.address }}</li>{% endif %}
+  </ul>
+</header>
+
+{% if r.profile %}
+<h2>Profile</h2>
+<p>{{ r.profile }}</p>
+{% endif %}
+
+{% if r.experience %}
+<h2>Experience</h2>
+{% for e in r.experience %}
+  <article class="resume-experience-item">
+    <h3>{{ e.title }} — {{ e.company }}{% if e.location %} ({{ e.location }}){% endif %}</h3>
+    <p class="dates">{{ e.start }} – {{ e.end }}</p>
+    {% if e.details %}
+    <ul>
+      {% for d in e.details %}
+      <li>{{ d }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </article>
+{% endfor %}
+{% endif %}
+
+{% if r.education %}
+<h2>Education</h2>
+<ul>
+  {% for ed in r.education %}
+  <li>{{ ed.institution }} — {{ ed.degree }}{% if ed.year %} ({{ ed.year }}){% endif %}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if r.skills %}
+<h2>Skills</h2>
+<ul class="resume-skills">
+  {% for s in r.skills %}
+  <li>{{ s }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<!-- End resume include -->
