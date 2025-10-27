@@ -8,3 +8,7 @@ categories: update
 ![binary_code](/assets/images/binary_code.jpg)
 
 Just getting started editing my new blog.  This is my first real post, hoping to start updating the contents more frequently.
+
+{% highlight ruby %}
+    git clone krijonk\new-blog ~/projects/new-blog
+{% endhighlight %}
