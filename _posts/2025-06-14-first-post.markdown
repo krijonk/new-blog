@@ -12,3 +12,8 @@ Just getting started editing my new blog.  This is my first real post, hoping to
 {% highlight ruby %}
     git clone krijonk\new-blog ~/projects/new-blog
 {% endhighlight %}
+
+
+{code}
+    git clone krijonk\new-blog ~/projects/new-blog
+{%endcode%}
