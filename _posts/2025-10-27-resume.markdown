@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Resume!"
+date:   2025-10-27 01:02:17 -0700
+categories: resume
+---
+
+
+
 name: "First Last"
 title: "Software Engineer"
 contact:
