@@ -14,6 +14,6 @@ Just getting started editing my new blog.  This is my first real post, hoping to
 {% endhighlight %}
 
 
-{code}
+{% code %}
     git clone krijonk\new-blog ~/projects/new-blog
-{%endcode%}
+{% endcode %}
