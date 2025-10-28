@@ -10,8 +10,8 @@ experience:
   - title: "Construction Labor / Skilled Labor"
     company: "Cooper Oates Air Conditioning"
     location: "Sacramento, CA"
-    start: "2019-09"
-    end: "2020-04"
+    start: "09/2019"
+    end: "04/2020"
     details:
       - "Fabrication shop and multiple job-site work for new construction. Assisted with copper and steel welding and basic fabrication (cutting, grinding, MIG welding)."
       - "Operated warehouse equipment (pallet jacks, forklifts) and used pipe vices, stands, levels, clamps, and vice-grips to position materials."
@@ -20,21 +20,21 @@ experience:
   - title: "IT Technician / Help Desk / Field Service"
     company: "Consolvant / Santech Systems"
     location: "San Diego, CA"
-    start: "2017-04"
-    end: "2018-07"
+    start: "04/2017"
+    end: "07/2018"
     details:
       - "Provided desktop and server support: imaging, hardware upgrades, RAID, drive replacement, and system deployments."
       - "Exchange and Active Directory administration; onboard/offboard user lifecycle and VPN administration for remote users."
-      - "Supported Office suites (2000 through 2016) and Office365; logged and triaged tickets via tracking system."
+      - "Supported Office suites (2000 through 2016) and Office365; logged and tracked tickets via tracking system."
 
   - title: "Technical Consultant / IT Managed Service Provider"
     company: "Self-employed"
     location: "San Diego & Orange County, CA"
-    start: "2007-02"
-    end: "2017-02"
+    start: "02/2007"
+    end: "02/2017"
     details:
       - "Delivered end-user and small-business IT services: desktops, printers, scanners, POS systems, backups, and mobile device support (iOS & Android)."
-      - "Experience across macOS (10.4–10.13), Windows (XP–11), and multiple Linux distributions. Managed DNS, Windows Server (2000–2012), and Exchange (2003/2010)."
+      - "Experience with macOS (10.4 thru 26), Windows (XP thru 11), and multiple Linux distributions. Managed DHCP, DNS, Windows Server (2000–2012), and Exchange (2003/2010)."
       - "Built and configured desktops and servers; focused on business continuity and scalable configurations."
 
 education:
