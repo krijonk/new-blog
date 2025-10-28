@@ -43,20 +43,36 @@ education:
     year: 2006
 
 skills:
-  - "Construction / Handyman / Industrial Plumbing / Fabrication / Mechanical Repair"
-  - "Active Directory & Domain Controller Management / Group Policy"
-  - "Windows Desktop OS Deployment (Imaging, Licensing, Asset Mgmt)"
-  - "Windows Server Administration"
-  - "Help Desk & Ticket Management"
-  - "WAN Management, VPN, Routing"
-  - "Ethernet / Fiber / WiFi (AP & Mesh), Guest WiFi"
-  - "DNS / DHCP Server Management, VLANs"
-  - "Microsoft Exchange / Exchange365"
-  - "System Administration across macOS, Windows, Linux, ChromeOS"
-  - "Mobile device management (iOS/Android), iOS development provisioning"
-  - "Remote access: RDP, VNC, TeamViewer, LogMeIn, Citrix"
-  - "Virtualization: VirtualBox, VMware, Parallels, VDI"
-  - "Backup solutions, disaster recovery, imaging"
-  - "Firewall configuration, security management, event monitoring"
-  - "FTP/SFTP/HTTP server management"
-  - "Specialty AV & Digital Menu systems"
+- Construction / Handyman / Industrial Plumbing / Fabricating / Mechanical Repair Services
+- Active Directory / Domain Controller Management / Group Policy Management
+- Microsoft Windows Desktop OS Deployment (Imaging / Licensing / Asset Management / End-User Configuration and Support)
+- Microsoft Windows Server Administration
+- Help Desk Customer Support (Ticket Management / Issue Tracking / Problem Resolution Support)
+- WAN Management (Traffic Shaping / Analytics / Endpoint and Tunnel Management / Access Control)
+- VPN (Addressing / Traffic Routing / Remote Connection Routing)
+- Ethernet / Fiber / WiFi (Single AP & Mesh) / Guest WiFi Administration
+- DNS Server Management (Internal / External / Internet DNS)
+- DHCP Server Management (Addressing / Reservations / Subnets / VLAN)
+- Microsoft Exchange / Exchange365 Management (Setup / Database Migration / Troubleshooting)
+- System Administration (Consulting / Configuration / Deployment / Management)
+- Authentication (Kerberos/NTLMv1/2/3)
+- Event Monitoring and Log Review Process (Required for Compliance Audits i.e. SAS70)
+- Network Administration / Infrastructure Management and Monitoring
+- MacOS / WindowsOS / ChromeOS / Linux / and variety of other platforms
+- iOS Device Management / Deployment / Configuration / Repairs / Migrations / Troubleshooting
+- iOS Development / Developer Provisioning / Xcode / App Signing & Distribution
+- Android Device Management / Deployment / Administration / Support and Troubleshooting
+- Windows Remote Desktop / RDP / VNC / TeamViewer / Logmein / Citrix / many more
+- Computer Desktop and Server Hardware (Custom Builds / Deployment / Configuration and Purchase Consulting)
+- Google G-Suite Deployment / Configuration / Administration / Migration
+- FTP/SFTP/HTTP Server Management / Access Control
+- Routing protocols / Network Connection Management
+- Terminal / CMD / Powershell / etc. (command line usage / administration )
+- Firmware (BIOS / UEFI / Android (Bootloader / Recovery / OEM Unlock) / iOS DFU Restores (w/ Activation Blobs)
+- Firewall Configuration and Security Management (Deployment / Traffic Analytics / Penetration testing)
+- Backup Solution Implementation and Disaster Mitigation Management (Imaging / Cloud / Data Redundancy / On-site and Off-Site Physical Backups)
+- VMWare / VDI / VT-x / Virtualization (VirtualBox / VMware / Parallels Desktop)
+- Digital Menu Management (Food Industry)
+- Specialty AV Equipment Setup and Support (HDMI Matrixing, Sound Processing, Large Screen Projector Support)
+- Streaming Services support and network usage optimization for time sensitive content
+- Physical Location Access Control Administration (Key FOB / Key Card Registration, etc.)
